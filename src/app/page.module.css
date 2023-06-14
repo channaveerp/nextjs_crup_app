@@ -24,13 +24,4 @@
   height: 500px;
   object-fit: cover;
 }
-.btn {
-  width: max-content;
-  padding: 18px;
-  border-radius: 5px;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  background-color: aqua;
-  color: white;
-}
+
