@@ -41,7 +41,10 @@ const About = () => {
             impedit, asperiores sit sapiente doloribus temporibus? Debitis culpa
             amet numquam.
           </p>
-          <Button text='Contact' url='/contact' />
+          <div className={styles.btnConatainer}>
+            
+          <Button text='Contact' url='/contact' className={styles.btn} />
+          </div>
         </div>
       </div>
     </div>
